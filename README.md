@@ -23,6 +23,9 @@ Finally find the pairwise correlation of all columns in the dataframe(.corr()) a
 
 ## CODE:
 ~~~
+name:souvik kundu
+register no:212221230105
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
